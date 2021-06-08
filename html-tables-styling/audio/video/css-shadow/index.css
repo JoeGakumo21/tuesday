@@ -1,0 +1,19 @@
+body{
+    background-color: black;
+  }
+  
+  div{
+    background-color: white;
+    display: flex;
+    justify-content: center;
+  }
+  .shadow{
+    padding: 10px;
+    font-size: 24px;
+    text-shadow: 30px 20px 1px tomato;
+ }
+ #shadow{
+     padding: 5px;
+     background-color: white;
+     box-shadow:3px 4px 1px grey ;
+ }
